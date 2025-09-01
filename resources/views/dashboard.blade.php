@@ -175,7 +175,7 @@
                     <td class="px-4 py-2 border text-center">Jervis Lloyd M. Atilano</td>
                     <td class="px-4 py-2 border text-center">1</td>
                     <td class="px-4 py-2 border text-center">ICT Equipment</td>
-                    <td class="px-4 py-2 border">One missing from storage</td>
+                    <td class="px-4 py-2 border">Functional</td>
                 </tr>
                 <!-- Add more rows as needed -->
             </tbody>
